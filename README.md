@@ -21,7 +21,8 @@ A lightweight, user-friendly desktop application built with Python's Tkinter tha
 
 ## 🖥️ User Interface
 
-![App Screenshot](screenshot.png) *[Add screenshot here]*
+<img width="867" height="717" alt="image" src="https://github.com/user-attachments/assets/3da8d719-ad97-45db-a0d0-2d1df04a1764" />
+
 
 ```
 +---------------------------------------------------+
